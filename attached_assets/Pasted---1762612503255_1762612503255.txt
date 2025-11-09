@@ -1,0 +1,63 @@
+Отлично, теперь вижу в чём проблема: контент норм, но сайт выглядит как просто длинная презентация → без эмоций, без переходов, без «вау-эффекта».
+
+Я тебе сделаю точное ТЗ для дизайнера / нейросети / фронта, чтобы сайт выглядел ПРОФЕССИОНАЛЬНО, но сохранил пиксельный мем-вайб 🔥
+И без стейкинга — понял 😉
+
+🚀 Что добавляем — чтобы сайт жил при скролле
+4
+✅ Переходы и скролл-эффекты
+Блок	Как оживает
+Hero (BITCOIN CORE)	Монета падает как в Mario → bounce → остаётся сверху
+CTA кнопка	пульсирует как 8-bit power-up
+Текст	пишется с эффектом typewriter
+Облака	медленный parallax, разный speed-layer
+Разделы	pixel swipe — как смена уровней в играх
+Кнопки	звук «клик из 90-х» 🎮
+🎮 Визуальный стиль — что написать нейросети
+4
+
+✍️ Промпт, который усиливает твой дизайн (копируй!)
+
+Create a pixel-art style web UI in bright playful meme coin vibe.
+Theme: Bitcoin parody. Retro 8-bit game aesthetics.
+Background: sky gradient from cyber blue to soft lilac with pixel clouds moving on parallax layers.
+
+Typography: bold 8bit arcade font for titles (orange with darker shadow),
+clean pixel monospace for text.
+
+Elements:
+• Golden pixel-bitcoin as main mascot
+• CTA buttons shaped like retro game buttons (yellow, glossy, pixel shadow)
+• Floating pixel icons (coins, +1 score text popups)
+• Funny UI labels like “0x Utility”, “100% Meme”
+• Light CRT scanline effect and small noise grain
+
+Interactions:
+• scrolling between sections triggers game-like transitions
+• hover effects: pixel wobble animation
+• hero coin bounce-in, score counter increasing on scroll
+
+🧱 Разбивка на уровни (страницы → как уровни игры)
+4
+Секция	Новый стиль
+What is BTC Core?	Экран уровня: PRESS START → INFO!
+Tokenomics	Как scoreboard: Total Supply, Burned, Holders → в виде counter-анимации
+Roadmap (если будет)	Смеёмся над дорожными картами (Fake quests: “Add more memes”, “Do nothing”)
+Join Meme	Big boss fight button 😄
+✨ Маленькие детали, которые делают «дорого»
+Эффект	Зачем
+Pixel-shadow UI	глубина без 3D
+CRT overlay 3–5%	ностальгия + стиль
+Chiptune звук при клике	эмоции
+Score-counter в navbar	вовлекает («+1 Meme Holder»)
+🔊 Улучшаем настроение бренда
+
+Фразочки:
+
+THE MOST USELESS BITCOIN OF ALL TIME
+
+0% utility. 100% comedy.
+
+If Satoshi saw this, he’d laugh. Probably.
+
+На кнопке: BUY THE WRONG BITCOIN
