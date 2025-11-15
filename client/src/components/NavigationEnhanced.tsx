@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import bitcoinIcon from "@assets/image-Photoroom_1762614419398.png";
+import bitcoinIcon from "@assets/1001844792-no-bg-preview (carve.photos)_1763213338104.png";
 import { Menu, X, Copy } from "lucide-react";
 import { SiX, SiTelegram } from "react-icons/si";
 import { useState, useEffect } from "react";
