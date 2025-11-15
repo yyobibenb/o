@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import bitcoinIcon from "@assets/1001844792-no-bg-preview (carve.photos)_1763213338104.png";
+import bitcoinIcon from "@assets/1001844792-no-bg-preview (carve.photos).png";
 import cloudIcon from "@assets/image-removebg-preview_1762615554459.png";
 import sunIcon from "@assets/generated_images/Pixel_art_retro_sun_da85e171.png";
 import groundIcon from "@assets/ooooooooooooooooooo_1762616608772.png";
